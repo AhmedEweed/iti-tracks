@@ -35,5 +35,3 @@ def scrape(pg):
         for item in subjects:
             if len(item) > 0:
                 t.write(item[0] + '\n')
-
-    # return print('Scraping was successful!' + '\n' + 'Your subjects file is ready')
