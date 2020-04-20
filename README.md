@@ -26,5 +26,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgements  
 
-The data used in this scraper was acquired from the official ITI page for current batch [http://www.iti.gov.eg/Admission/PTPprogram/intake40](ITI batch 40)
+The data used in this scraper was acquired from the official ITI page for current batch [ITI batch 40](http://www.iti.gov.eg/Admission/PTPprogram/intake40)
 All rights reserved for ITI.
