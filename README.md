@@ -1,16 +1,11 @@
 # ITI Subjects scraper  
 
-ITI is the most prestigious institute in Egypt for technology teaching 
-I faced a problem getting their subject names for a certain track
-So, I made this scraper to help me solve this problem.
+ITI is the most prestigious institute in Egypt for technology teaching  
+I faced a problem getting their subject names for a certain track  
+So, I made this scraper to help me solve this problem.  
 
 I scraped the names of the subjects of each track of the current batch using this script [main_scrape.py](main_scrape.py)  
 and made a humble user interface to simplify the process for any user  
-
-
-the original site from which I scraped the data is: [ntl wall of fame](http://techleaders.eg/wall-of-fame/)
-
-
 ## Getting started
 
 Simply clone the repo and open [GUI.py](GUI.py) file in a terminal  
@@ -31,5 +26,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgements  
 
-The data used in this scraper was acquired from the official ITI page for current batch [http://www.iti.gov.eg/Admission/PTPprogram/intake40]
+The data used in this scraper was acquired from the official ITI page for current batch [http://www.iti.gov.eg/Admission/PTPprogram/intake40](ITI batch 40)
 All rights reserved for ITI.
